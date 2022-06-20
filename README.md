@@ -1,9 +1,21 @@
 
 ***
 
-<details open><summary><b lang="en">Click/tap here to expand/collapse the logo for this subproject</b></summary>
+<details open><summary><b lang="en">Click/tap here to expand/collapse the red carpet logo for this subproject</b></summary>
 
 ![/WacTVOS_RedCarpet_HighCompression.png](/WacTVOS_RedCarpet_HighCompression.png)
+
+</details>
+
+<details><summary><b lang="en">Click/tap here to expand/collapse the metal logo for this subproject</b></summary>
+
+![WacTVOS_Metal_HighCompression.png](/WacTVOS_Metal_HighCompression.png) 
+
+</details>
+
+<details><summary><b lang="en">Click/tap here to expand/collapse the boring logo for this subproject</b></summary>
+
+![WacTVOS_Plain_HighCompression.png](/WacTVOS_Plain_HighCompression.png)
 
 </details>
 
@@ -15,6 +27,7 @@
 | [WacTVOS 8)](https://github.com/seanpm2001/WacTVOS_8/) | [WacTVOS 9)](https://github.com/seanpm2001/WacTVOS_9/) | [WacTVOS 10)](https://github.com/seanpm2001/WacTVOS_10/) | [WacTVOS 11)](https://github.com/seanpm2001/WacTVOS_11/) | [WacTVOS 12)](https://github.com/seanpm2001/WacTVOS_12/) | [WacTVOS 13)](https://github.com/seanpm2001/WacTVOS_13/) | [WacTVOS 14)](https://github.com/seanpm2001/WacTVOS_14/) | [WacTVOS 15)](https://github.com/seanpm2001/WacTVOS_15/) | [WacTVOS 16)](https://github.com/seanpm2001/WacTVOS_16/) |
 |---|---|---|---|---|---|---|---|---|
 | ![WacTVOS_RedCarpetWallpaper_HighCompression.png](/WacTVOS_RedCarpetWallpaper_HighCompression.png) | ![WacTVOS_RedCarpetWallpaper_HighCompression.png](/WacTVOS_RedCarpetWallpaper_HighCompression.png) | ![WacTVOS_RedCarpetWallpaper_HighCompression.png](/WacTVOS_RedCarpetWallpaper_HighCompression.png) | ![WacTVOS_RedCarpetWallpaper_HighCompression.png](/WacTVOS_RedCarpetWallpaper_HighCompression.png) | ![WacTVOS_RedCarpetWallpaper_HighCompression.png](/WacTVOS_RedCarpetWallpaper_HighCompression.png) | ![WacTVOS_RedCarpetWallpaper_HighCompression.png](/WacTVOS_RedCarpetWallpaper_HighCompression.png) | ![WacTVOS_RedCarpetWallpaper_HighCompression.png](/WacTVOS_RedCarpetWallpaper_HighCompression.png) | ![WacTVOS_RedCarpetWallpaper_HighCompression.png](/WacTVOS_RedCarpetWallpaper_HighCompression.png) | ![WacTVOS_RedCarpetWallpaper_HighCompression.png](/WacTVOS_RedCarpetWallpaper_HighCompression.png)
+| First boot | First boot | First boot | First boot | First boot | First boot | First boot | First boot | First boot |
 | ![WacTVOS_SilverCarpetWallpaper_HighCompression.png](WacTVOS_SilverCarpetWallpaper_HighCompression.png) | ![WacTVOS_SilverCarpetWallpaper_HighCompression.png](WacTVOS_SilverCarpetWallpaper_HighCompression.png) | ![WacTVOS_SilverCarpetWallpaper_HighCompression.png](WacTVOS_SilverCarpetWallpaper_HighCompression.png) | ![WacTVOS_SilverCarpetWallpaper_HighCompression.png](WacTVOS_SilverCarpetWallpaper_HighCompression.png) | ![WacTVOS_SilverCarpetWallpaper_HighCompression.png](WacTVOS_SilverCarpetWallpaper_HighCompression.png) | ![WacTVOS_SilverCarpetWallpaper_HighCompression.png](WacTVOS_SilverCarpetWallpaper_HighCompression.png) | ![WacTVOS_SilverCarpetWallpaper_HighCompression.png](WacTVOS_SilverCarpetWallpaper_HighCompression.png) | ![WacTVOS_SilverCarpetWallpaper_HighCompression.png](WacTVOS_SilverCarpetWallpaper_HighCompression.png) | ![WacTVOS_SilverCarpetWallpaper_HighCompression.png](WacTVOS_SilverCarpetWallpaper_HighCompression.png) |
 | Default boot | Default boot | Default boot | Default boot | Default boot | Default boot | Default boot | Default boot | Default boot |
 | WacTVOS 8 [Local](/WacTVOS/8/) | WacTVOS 9 [Local](/WacTVOS/9/) | WacTVOS 10 [Local](/WacTVOS/10/) | WacTVOS 11 [Local](/WacTVOS/11/) | WacTVOS 12 [Local](/WacTVOS/12/) | WacTVOS 13 [Local](/WacTVOS/13/) | WacTVOS 14 [Local](/WacTVOS/14/) | WacTVOS 15 [Local](/WacTVOS/15/) | WacTVOS 16 [Local](/WacTVOS/16/) |
@@ -23,7 +36,7 @@
 
 WacTVOS is an open source recreation of Apple's tvOS (spanning from versions 8 to 16). It is part of the WacOS operating system project. 
 
-| [Predecessor: wOS 7](https://github.com/seanpm2001/wOS_7) [Local](/) | [Successor: Incumbent](https://github.com/seanpm2001/WacTVOS) [Local](/WacTVOS/) |
+| [**Predecessor:** `(wOS 7)`](https://github.com/seanpm2001/wOS_7) [`(Local`)](/) | [**Successor:** `(Incumbent`)](https://github.com/seanpm2001/WacTVOS) [`(Local)`](/WacTVOS/) |
 |---|---|
 
 ## Language
@@ -154,9 +167,9 @@ This is the home repository. If you are already in this repository, the link is 
 
 **File type:** `Markdown document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `1 (2022, Sunday, June 19th at 4:42 pm PST)`
+**File version:** `1 (2022, Sunday, June 19th at 9:16 pm PST)`
 
-**Line count (including blank lines and compiler line):** `201`
+**Line count (including blank lines and compiler line):** `229`
 
 **Current article language:** `English (USA)`
 
@@ -166,7 +179,7 @@ This is the home repository. If you are already in this repository, the link is 
 
 <details><summary><p lang="en"><b>Click/tap here to expand/collapse the changelog for this project</b></p></summary>
 
-<details><summary><p lang="en"><b>Version 1 (2022, Sunday, June 19th at 4:42 pm PST))</b></p></summary>
+<details><summary><p lang="en"><b>Version 1 (2022, Sunday, June 19th at 4:42 pm PST)</b></p></summary>
 
 **This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
 
@@ -192,6 +205,21 @@ This is the home repository. If you are already in this repository, the link is 
 - [x] Added the file info section
 - [x] Added the file history section
 - [ ] No other changes in version 1
+
+</details>
+
+<details><summary><p lang="en"><b>Version 2 (2022, Sunday, June 19th at 9:16 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> Changes:
+
+- [x] Updated the logo section
+- [x] Enhanced the `predecessor` & `successor` labels
+- [x] Fixed the `first boot` section of the table
+- [x] Updated the file info section
+- [x] Updated the file history section
+- [ ] No other changes in version 2
 
 </details>
 
